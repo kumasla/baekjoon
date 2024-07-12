@@ -7,3 +7,4 @@ for _ in range(t) :
         x, y = map(int,input().split())
         form[x][y] = 1
 
+# 커밋용도 주석
